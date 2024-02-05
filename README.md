@@ -1,4 +1,4 @@
-# MNIST
+# Handwritten-Digit-Classification
 An Artificial Neural Network created from scratch using Numpy and Pandas.
 This ANN has three layers.
 
